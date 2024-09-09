@@ -6,4 +6,6 @@ The problem statement here is that we have a dataset of some people with certain
 2. How well can our ML algorithms predict medical expenses?
 3. Checking the accuracy.
 <br>
+<br>
+<br>
  In this project, I worked on developing an end to end machine learning model using linear regression, Random Forest Regression and XG Boost Regression. 
